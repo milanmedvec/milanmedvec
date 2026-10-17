@@ -1,43 +1,48 @@
 # Hi, I'm Milan 👋
 
-T-shaped software architect with 12+ years shipping systems from embedded hardware to cloud platforms — and more recently, AI agents that actually work.
+**Software Architect | 15+ Years of Engineering, Experimenting & Challenging Assumptions**
 
----
+I build software systems, solve complex problems, and question how things are usually done.
+
+Over the past 15+ years, I've worked across almost every layer of software engineering — from low-level C/C++ and embedded devices to distributed systems, cloud platforms, AI, and full-stack applications.
 
 ## What I do
 
-I design and build **AI-enabled distributed systems** — the kind that span the full stack: from edge devices and real-time data pipelines to cloud infrastructure and autonomous AI workflows.
+I design architectures and build working systems — from edge devices and real-time data pipelines to cloud infrastructure and AI workflows.
 
-My sweet spot is at the intersection of **deep technology and product thinking**: making architecturally sound systems that also solve real problems.
+My work connects **hands-on engineering, system design, and product thinking**. I care about understanding the problem, choosing sensible trade-offs, and delivering something that works in practice.
 
----
+No single technology defines my interests. I like understanding how things work, finding better ways to solve problems, and turning complicated ideas into working systems.
 
 ## Experience
 
-- **CTO & Co-founder** at AI Gear — built autonomous AI employee workflows ahead of the curve
-- **Edge AI & Cloud** at Luxonis (USA) — architected cloud infrastructure and edge-AI agents for real-time computer vision and robotics
+- **CTO & Co-founder at AI Gear** — worked on autonomous AI employee workflows
+- **Edge AI & Cloud at Luxonis (USA)** — built edge-AI agents and cloud infrastructure for real-time vision processing
 - **Software company founder** — delivered custom systems, integrations, and automation for clients across Europe
 
----
+Along the way, I've led teams, collaborated with international engineers, and learned that the hardest problems rarely have straightforward solutions.
 
 ## Tech I reach for
 
-```
+```text
 Languages   Rust · C/C++ · Python · TypeScript · JavaScript
-Frontend    React · Next.js · Node.js
-Infra       Docker · Azure · edge/cloud integration
+Web         React · Next.js · Node.js
+Infra       Linux · Docker · Azure · edge/cloud integration
 AI          LLMs · agents · autonomous workflows · RAG
 ```
 
----
+The stack depends on the problem. These are tools I use, not boundaries on what I'll build.
 
-## What I'm into right now
+## What I'm exploring
 
-Building **high-leverage AI systems** — not vibe coding for the sake of it, but using the speed of modern tools to go from idea to working product fast. If it solves a real problem, it's worth building.
+- **AI agents** — useful workflows, automation, and how agents fit into real systems
+- **Software architecture** — trade-offs, distributed systems, and keeping complexity manageable
+- **System-level engineering** — Linux internals, developer tools, and what happens beneath the abstractions
+- **Experiments** — testing assumptions and taking ideas from a quick prototype to something useful
 
-I also write about how I work — workflows, experiments, and hard-won patterns — on my [Substack](https://milanmedvec.substack.com).
+I share experiments, engineering insights, and lessons learned on [Substack](https://milanmedvec.substack.com) and [LinkedIn](https://linkedin.com/in/milanmedvec).
 
----
+If you enjoy digging beneath the surface of software engineering, we'll probably have something to discuss.
 
 ## Find me
 
